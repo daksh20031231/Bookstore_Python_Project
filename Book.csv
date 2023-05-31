@@ -1,0 +1,20 @@
+ BOOK ID,BOOK NAME ,AUTHOR,PUBLISHED,EDITION,COST ,CATEGORY
+11104,Fundamental of chemistry,douglas,ABP Publisher,2016,540,CHEMISTRY
+20502,Advanced chemistry,Francis,FRC Publisher,2019,850,CHEMISTRY
+45652,Essentials of chemistry,charlie,CWP Publisher,2017,450,CHEMISTRY
+44562,New Simple Physics,SL Arora,Dhanpat Publisher,2018,1200,PHYSICS
+65455,Fundamental of physics,KL gogia & Daksh Sharma,Pradeep Publisher,2019,1200,PHYSICS
+66545,Mordern Physics,SP jauhar,Mordern Publisher,2019,900,PHYSICS
+72121,RD Sharma,RD Sharma,Dhanpat Publisher,2019,500,MATHS
+84645,Algebra,Cengage,Arihant Publisher,2018,600,MATHS
+96545,RS Agarwal,RS Agarwal,,2019,900,MATHS
+10112,S chand ,SK Gupta,S.chand Publisher,2017,110,MATHS
+11222,Mordern Chemisitry,SP jauhar,Mordern Publisher,2019,500,CHEMISTRY
+12665,Informartion practise,Preeti ARC,Sultan Publisher,2019,650,IP
+13111,Computer System,Sharad chandra,Sun india Publisher,2018,500,IP
+14222,Information Networking,Sumit arora,Sultan Publisher,2019,450,IP
+15232,Client server,Lalit Kumar,Sun india Publisher,2018,700,IP
+16000,War and pear,Tolystory,The russian Publisher,2004,430,NOVEL
+17232,Pride and pr Jane ,Jane Austin,whitehall Publisher,2008,400,NOVEL
+18545,the histor of henry fie,Henry,andrew press Publisher,2005,650,NOVEL
+21355,David cop,Charles Dikens,,2011,350,NOVEL
